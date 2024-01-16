@@ -1,1 +1,2 @@
-73 vikal singh
+arr before sorting 23 32 12 3 8 4 
+arr after sorting 3 4 8 12 23 32 
